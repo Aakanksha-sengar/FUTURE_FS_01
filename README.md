@@ -52,11 +52,10 @@ This is not just a static website — it includes:
 
 ## 📸 Screenshots
 
-<img width="1920" height="842" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/09e31834-fc5a-4477-aeac-7d0d73e570c7" />
-<img width="1920" height="811" alt="about me" src="https://github.com/user-attachments/assets/5042b5be-271b-400c-95d7-5368c70f512d" />
-<img width="1920" height="875" alt="certifications" src="https://github.com/user-attachments/assets/a501a3da-4c07-4fb3-aab8-32a4bf0d2111" />
-<img width="1920" height="823" alt="contact" src="https://github.com/user-attachments/assets/94ea598e-fed6-4553-a304-ea95e6051c19" />
-
+<img width="1920" height="842" alt="home page" src="https://github.com/user-attachments/assets/1a95fa10-55f7-4efb-8f47-56b3784ff972" />
+<img width="1920" height="842" alt="home page" src="https://github.com/user-attachments/assets/2eb98c16-57bd-45b6-91de-621cc8eb7415" />
+<img width="1920" height="875" alt="certifications" src="https://github.com/user-attachments/assets/40e46308-660f-4db2-b22c-cd18cd786198" />
+<img width="1920" height="875" alt="certifications" src="https://github.com/user-attachments/assets/93de359a-2226-499b-b149-65086bdc5757" />
 
 ---
 
